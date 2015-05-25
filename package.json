@@ -1,0 +1,27 @@
+{
+  "name": "a-http-server-component-resources",
+  "version": "0.0.0",
+  "main": "lib",
+  "description": "A Http Server Component Resources",
+  "keywords": [
+    "a",
+    "http",
+    "server",
+    "component",
+    "resources"
+  ],
+  "dependencies": {
+    "a-http-server-component": ""
+  },
+  "devDependencies": {},
+  "author": "João Afonso Martins",
+  "license": "MIT",
+  "homepage": "https://github.com/joaoafrmartins/a-http-server-component-resources",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-http-server-component-resources.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-http-server-component-resources/issues"
+  }
+}
